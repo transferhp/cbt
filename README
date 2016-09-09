@@ -1,0 +1,15 @@
+My implementation to Code Book Transfer (CBT) model
+proposed in the paper:
+Bin Li, Qiang Yang and Xiangyang Xue, IJCAI, 2009.
+'Can Movies and Books Collaborate?
+Cross-Domain Collaborative filtering for Sparsity Reduction'
+
+
+Requirement:
+1. Python 2.7;
+2. Numpy;
+3. Scipy;
+4. Pandas.
+
+
+If you find any bugs or have any questions, please let me know. :) 
